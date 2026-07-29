@@ -6,8 +6,8 @@ import Link from "next/link";
 import "../../app/globals.css";
 
 export const metadata = {
-  title: "T1 Satta Play",
-  description: "Satta Play - Satta Matka Results, Charts, and More",
+  title: "Satta King Firm",
+  description: "Satta King Firm is a trusted platform for Satta Matka enthusiasts, providing accurate results, tips, and insights into the world of Satta King. Stay updated with the latest Satta King results and enhance your gaming experience.",
 };
 
 export default async function RootLayout({ children }) {
@@ -32,7 +32,7 @@ export default async function RootLayout({ children }) {
         />
       </Link>
       <p className="text-sm sm:text-base text-center font-semibold text-[#FF0000] py-2 bg-[#ffd800]">
-        @{currentYear} T1 Satta :: All Rights Reserved
+        @{currentYear} Satta King Firm :: All Rights Reserved
       </p>
       <p className="max-w-[1140px] text-center mx-auto mt-4 px-3 pb-4 sm:text-base text-xs font-medium">
         !! DISCLAIMER :-{" "}

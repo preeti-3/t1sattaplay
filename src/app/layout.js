@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "T1 Satta Play",
-  description: "T1 Satta Play",
+  title: "Satta King Firm",
+  description: "Satta King Firm is a trusted platform for Satta Matka enthusiasts, providing accurate results, tips, and insights into the world of Satta King. Stay updated with the latest Satta King results and enhance your gaming experience.",
   icons: {
     icon: '/favicon.ico',
   },

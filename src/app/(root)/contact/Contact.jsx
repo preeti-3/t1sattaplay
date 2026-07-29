@@ -19,7 +19,7 @@ const Contact = ({ setting }) => {
         </h1>
         <div className="bg-gradient w-full text-center mt-5 py-4  ">
           <h2 className="text-4xl lg:text-5xl text-white font-semibold text-theme-accent">
-            T1 Satta 👑
+            Satta King Firm 👑
           </h2>
         </div>
         <div className="mx-auto max-w-[300px] mt-5 hover:scale-110 transition-all duration-300">
@@ -38,7 +38,7 @@ const Contact = ({ setting }) => {
         </div>
         <div className="mt-5 bg-gradient font-semibold text-2xl max-sm:text-xl py-4 text-center px-3 w-full text-white">
           <span>
-            @{new Date().getFullYear()} T1 Satta :: All Rights Reserved
+            @{new Date().getFullYear()} Satta King Firm : All Rights Reserved
           </span>
         </div>
       </div>

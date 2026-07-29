@@ -174,7 +174,7 @@ const SiteConfig = ({ showConfig, setShowConfig, onConfigSaved }) => {
         <div className="mb-6 p-4 bg-white/10 rounded-lg border border-white/20">
           <h4 className="text-white text-lg mb-4 flex items-center">
             <div className="w-3 h-3 bg-green-400 rounded-full mr-2"></div>
-            T1 Satta Play Configuration
+            Satta King Firm Configuration
           </h4>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div>

@@ -17,10 +17,10 @@ const ChartOne = () => {
   return (
     <div className="mt-18 py-4 h-full bg-gradient">
       <h1 className="pb-3 text-[22px] text-white font-medium text-center px-3 pt-6">
-        T1-satta provides all kind of satta king results everyday.
+        Satta King Firm provides all kind of satta king results everyday.
       </h1>
       <h2 className="capitalize text-3xl py-3 text-white font-semibold text-center">
-        T1 Satta Play Chart {yearRangeLabel}
+        Satta King Firm Chart {yearRangeLabel}
       </h2>
       <div className="bg-gradient h-full py-6">
         <div className="container mx-auto max-sm:px-3 px-4 py-5">

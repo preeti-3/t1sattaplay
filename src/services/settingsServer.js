@@ -55,7 +55,7 @@ export function buildSiteConfig(settings) {
 
     // T1 site configuration
     const t1Config = {
-        contactName: settings?.t1_contactName || "T1 BHAI KHAIWAL",
+        contactName: settings?.t1_contactName || "Satta King Firm BHAI KHAIWAL",
         whatsappNumber: settings?.t1_whatsappNumber || "",
         paymentNumber: settings?.t1_paymentNumber || "",
         rate: settings?.t1_rate || "",
@@ -79,7 +79,7 @@ export function buildSiteConfig(settings) {
 
     // Site configuration with khaiwal sections
     return {
-        siteName: "T1 Satta Play",
+        siteName: "Satta King Firm",
         khaiwalSection1,
         khaiwalSection2,
         // T1 specific settings

@@ -30,7 +30,7 @@ const T1ConfigPage = () => {
                         </div>
                         <div className="flex items-center space-x-3">
                             <div className="w-3 h-3 bg-purple-400 rounded-full"></div>
-                            <h1 className="text-white text-lg font-semibold">T1 Admin</h1>
+                            <h1 className="text-white text-lg font-semibold">Satta King Firm Admin</h1>
                         </div>
                     </div>
                 </div>
@@ -39,8 +39,8 @@ const T1ConfigPage = () => {
             {/* Main Content */}
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
                 <div className="text-center mb-8">
-                    <h2 className="text-3xl font-bold text-white mb-2">T1 Site Configuration</h2>
-                    <p className="text-purple-200">Configure contact details, rates, and game schedules for the T1 site</p>
+                    <h2 className="text-3xl font-bold text-white mb-2">Satta King Firm Site Configuration</h2>
+                    <p className="text-purple-200">Configure contact details, rates, and game schedules for the Satta King Firm site</p>
                 </div>
 
                 {/* Configuration Button */}

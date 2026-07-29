@@ -67,7 +67,7 @@ const SiteConfig = ({ showConfig, setShowConfig, onConfigSaved }) => {
       const configToSave = {
         ...siteConfig,
         site1_name: "T1 SATTA",
-        site2_name: "T1 Satta Play",
+        site2_name: "Satta King Firm",
       };
 
       await updateSettings(configToSave);

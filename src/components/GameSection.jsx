@@ -155,17 +155,11 @@ const GamePage = ({ data, setting, disawarData }) => {
               Game play करने के लिये नीचे लिंक पर क्लिक करे
             </p>
             <div className="mx-auto max-w-[300px] mt-4 hover:scale-110 transition-all duration-300">
-              <Link
+              <Link className="inline-block bg-green-600 hover:bg-green-500 text-white px-8 py-3 rounded-lg font-semibold transition-colors"
                 target="_blank"
                 href={`https://wa.me/+${setting?.t1_whatsappNumber || setting?.whatsappNumber}`}
               >
-                <Image
-                  className="max-sm:w-[200px] mx-auto max-sm:h-16"
-                  width={300}
-                  height={100}
-                  src="https://i.ibb.co/4RJCLbSB/whatsapp.png"
-                  alt="whatsapp"
-                />
+                WhatsApp पर संपर्क करें
               </Link>
             </div>
           </div>

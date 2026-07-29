@@ -118,7 +118,7 @@ const T1Config = ({ showConfig, setShowConfig, onConfigSaved }) => {
             <div className="bg-white/15 backdrop-blur-lg border border-white/20 rounded-2xl p-6 w-full max-w-4xl max-h-[90vh] overflow-y-auto">
                 <h3 className="text-white text-xl mb-6 flex items-center">
                     <div className="w-3 h-3 bg-purple-400 rounded-full mr-2"></div>
-                    T1 Site Configuration
+                    Satta King Firm Site Configuration
                 </h3>
 
                 {/* Basic Configuration */}
